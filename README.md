@@ -1,4 +1,4 @@
-# 多因子组合模型 (Multi-Factor Composition Model)
+# 多因子挖掘框架 (Multi-Factor Composition Model)
 
 ## 项目简介
 
@@ -82,3 +82,4 @@
 - 开发市场监控与预警功能
 
 - 研究ESG因子整合方法
+
